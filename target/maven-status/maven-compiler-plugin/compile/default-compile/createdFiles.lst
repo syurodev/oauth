@@ -1,0 +1,16 @@
+com/zen/oauth/entity/UserRole.class
+com/zen/oauth/entity/Audit.class
+com/zen/oauth/entity/Device.class
+com/zen/oauth/entity/RolePermission.class
+com/zen/oauth/config/DataSourceConfig.class
+com/zen/oauth/entity/User.class
+com/zen/oauth/entity/Token.class
+com/zen/oauth/controller/UserController.class
+com/zen/oauth/OauthApplication.class
+com/zen/oauth/entity/Role.class
+com/zen/oauth/service/impl/UserServiceImpl.class
+com/zen/oauth/dao/UserDao.class
+com/zen/oauth/entity/UserDevice.class
+com/zen/oauth/service/UserService.class
+com/zen/oauth/entity/Permission.class
+com/zen/oauth/entity/BaseEntity.class
